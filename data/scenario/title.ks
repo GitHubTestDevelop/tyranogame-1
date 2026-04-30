@@ -1,5 +1,7 @@
-
 [cm]
+[clearfix]
+[freeimage layer="base"] 
+[chara_hide_all time=0]
 
 @clearstack
 ;akuma quest
@@ -12,6 +14,7 @@
 ;@bg storage ="yasu/yasu-title.png" time=100
 
 ;yubisaki
+[playbgm storage="yubisaki/ido.mp3" loop="true"]
 @bg storage ="yubisaki/yubi-title.png" time=100
 
 @wait time = 200
